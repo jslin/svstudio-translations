@@ -286,7 +286,7 @@ language: 繁體中文
     "Hide points in freehand mode" = "在自由繪製模式下隱藏控制點"
     "Auto-insert anchor points" = "自動插入固定點"
     "Simplify freehand-drawn curves" = "自動簡化自由繪製的曲線"
-    "Snap points to zero" = "吸附控制點到零點位置"
+    "Snap points to zero" = "切齊控制點到零點位置"
   "Rendering" = "渲染"
     "Background threads" = "背景線程數量"
     "Engine Sample Rate" = "引擎取樣率"
